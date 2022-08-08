@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-- 📚 Estudando C#
-- 📚 Conhecimentos: HTML/CSS/JAVASCRIPT
+- 📚 Estudando TypeScript
+- 📚 Conhecimentos: HTML/CSS/JAVASCRIPT/C#
 - 😄 Pronouns: ele/dele
 
 <div align="center">
