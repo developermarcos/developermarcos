@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-- 📚 Estudando TypeScript
+- 📚 Estudando TypeScript/Angular
 - 📚 Conhecimentos: HTML/CSS/JAVASCRIPT/C#
 - 😄 Pronouns: ele/dele
 
