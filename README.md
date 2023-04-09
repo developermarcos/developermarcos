@@ -1,6 +1,5 @@
 ### Seja bem vindo! 
 📚 Estudando Angular/CSharp WebApi <br>
-😄 Pronouns: ele/dele
 ##  
 #### Conhecimentos
 <div style="display: inline_block"><br>
